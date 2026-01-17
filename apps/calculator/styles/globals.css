@@ -1,0 +1,11 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  background: rgb(255, 0, 255);
+  color: black;
+}
+
+button {
+  cursor: pointer;
+}
